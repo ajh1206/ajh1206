@@ -26,8 +26,8 @@
 
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
-| **프로젝트A** | Spring 기반 CRUD 게시판 | [바로가기](https://github.com/ajh1206/project-a) |
-| **프로젝트B** | Todo List 웹앱 (React + Spring) | [바로가기](https://github.com/ajh1206/project-b) |
+| OSSProject_Group10 | 간단한 게임 만들어보기 | https://github.com/JangHyeongyu1/OSSProject_Group10 |
+| AntiTamper | 탐지 기반 안티템퍼 | https://github.com/bank2014/AntiTamper |
 
 ---
 
