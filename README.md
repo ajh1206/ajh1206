@@ -34,6 +34,6 @@
 
 ## 📫 archive
 
-- [![Email](https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white)](ayjajh02@naver.com)
+-  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>(ayjajh02@naver.com)
 
 -  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=c&logoColor=white"/>(ajh120629@gmail.com)
