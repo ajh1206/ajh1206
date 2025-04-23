@@ -1,14 +1,16 @@
 # 👋 Ahn jun-hwan Github
 
 안녕하세요 충북대학교 컴퓨처공학과 21학번 안준환입니다.
-현재 python, C, C++을 공부하고 있습니다.
+현재 python, C, C++, 을 공부하고 있습니다.
 
 ---
 
 ## 💻 Tech Stack
 
 <div>
-  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
