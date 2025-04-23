@@ -1,5 +1,6 @@
 # 👋 Ahn jun-hwan Github
 
+안녕하세요 충북대학교 컴퓨처공학과 21학번 안준환입니다.
 현재 python, C, C++을 공부하고 있습니다.
 
 ---
@@ -32,9 +33,7 @@
 
 ## 📫 Contact
 
-- ✉️ Email: ajh1206@example.com  
-- 📘 Blog: [ajh-log](https://ajh-log.tistory.com)  
-- 📝 Notion: [개발기록](https://www.notion.so/ajhdev)
+- ✉️ Email: ajh120629@gmail.com or ayjajh02@naver.com  
 
 ---
 
