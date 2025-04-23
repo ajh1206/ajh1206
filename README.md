@@ -32,6 +32,7 @@
 -2021년 '메타버스내 NFT 활용방안 경진대회' 우수상
 
 
-## 📫 연락처
+## 📫 archive
 
-- ✉️ Email: ajh120629@gmail.com or ayjajh02@naver.com  
+- ✉️ Email: ajh120629@gmail.com or ayjajh02@naver.com
+-  <img src="https://img.shields.io/badge/Gmail-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
